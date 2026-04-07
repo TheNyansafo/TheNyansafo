@@ -11,7 +11,7 @@ I build intelligent systems that solve real problems — not for the novelty of 
 ### 🤖 Pilot — Autonomous Multi-Asset Trading Agent
 My flagship project and first full AI agent. Pilot is an autonomous trading system that operates across stocks, forex, commodities, and crypto using a multi-timeframe ML strategy. What started as a personal finance tool became a deep education in building AI systems that make consequential decisions reliably — and what happens when they don't.
 
-→ [View Project](https://github.com/Nyansafo/pilot)
+→ [View Project](https://github.com/TheNyansafo/pilot)
 
 ---
 
