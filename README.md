@@ -61,8 +61,7 @@ These aren't abstract interests. They come from building Pilot and watching what
 - 🎓 Studying Systems Engineering
 - 🔬 Studying Anthropic's research on Constitutional AI and RLHF
 - 🛠 Building a content moderation classifier as my next public project
-- 📝 Starting to write about what I've learned at [blog coming soon]
-
+- 📝 Writing at [thenyansafo.substack.com] (https://thenyansafo.substack.com)
 ---
 
 ## Let's Connect
